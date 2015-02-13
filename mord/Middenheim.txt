@@ -1,0 +1,8 @@
+{
+  "Mercenary Captain": { "M":4, "WS":4, "BS":4, "S":4, "T":3, "W":1, "I":4, "A":1, "L":8, "Cost":60, "Wep":"Yes", "XP":"Yes", "Skill":"Yes"},
+  "Champion": { "M":4, "WS":4, "BS":3, "S":4, "T":3, "W":1, "I":3, "A":1, "L":7, "Cost":35, "Wep":"Yes", "XP":"Yes", "Skill":"Yes"},
+  "Youngblood": { "M":4, "WS":2, "BS":2, "S":3, "T":3, "W":1, "I":3, "A":1, "L":6, "Cost":15, "Wep":"Yes", "XP":"Yes", "Skill":"Yes"},
+  "Swordsmen": { "M":4, "WS":4, "BS":3, "S":3, "T":3, "W":1, "I":3, "A":1, "L":7, "Cost":35, "Wep":"Yes", "XP":"Yes", "Skill":"Maybe"},
+  "Marksmen": { "M":4, "WS":3, "BS":3, "S":3, "T":3, "W":1, "I":3, "A":1, "L":7, "Cost":25, "Wep":"Yes", "XP":"Yes", "Skill":"Maybe"},
+  "Warrior": { "M":4, "WS":3, "BS":3, "S":3, "T":3, "W":1, "I":3, "A":1, "L":7, "Cost":25, "Wep":"Yes", "XP":"Yes", "Skill":"Maybe"}
+}

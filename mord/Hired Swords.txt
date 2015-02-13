@@ -1,0 +1,8 @@
+{
+  "Ogre Bodyguard": { "M":6, "WS":3, "BS":"X", "S":4, "T":4, "W":3, "I":3, "A":2, "L":7, "Cost":80, "Wep":"Yes", "XP":"Yes", "Skill":"Yes", "Upkeep":30},
+  "Pit Fighter": { "M":4, "WS":4, "BS":"X", "S":4, "T":4, "W":1, "I":4, "A":2, "L":7, "Cost":30, "Wep":"Yes", "XP":"Yes", "Skill":"Yes", "Upkeep":15},
+  "Warlock": { "M":4, "WS":2, "BS":"2", "S":3, "T":3, "W":1, "I":4, "A":1, "L":8, "Cost":30, "Wep":"Yes", "XP":"Yes", "Skill":"Yes", "Upkeep":15},
+  "Elf Ranger": { "M":5, "WS":4, "BS":"5", "S":3, "T":3, "W":1, "I":6, "A":1, "L":8, "Cost":40, "Wep":"Yes", "XP":"Yes", "Skill":"Yes", "Upkeep":20},
+  "Freelancer": { "M":4, "WS":4, "BS":"3", "S":4, "T":3, "W":1, "I":4, "A":1, "L":7, "Cost":50, "Wep":"Yes", "XP":"Yes", "Skill":"Yes", "Upkeep":20},
+  "Dwarf Troll Slayer": { "M":3, "WS":4, "BS":"3", "S":3, "T":4, "W":1, "I":2, "A":1, "L":9, "Cost":25, "Wep":"Yes", "XP":"Yes", "Skill":"Yes", "Upkeep":10}
+}

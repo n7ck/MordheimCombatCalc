@@ -1,0 +1,8 @@
+{
+  "Vampire": { "M":6, "WS":4, "BS":4, "S":4, "T":4, "W":2, "I":5, "A":2, "L":8, "Cost":110, "Wep":"Yes", "XP":"Yes", "Skill":"Yes"},
+  "Necromancer": { "M":4, "WS":3, "BS":3, "S":3, "T":3, "W":1, "I":3, "A":1, "L":7, "Cost":35, "Wep":"Yes", "XP":"Yes", "Skill":"Yes"},
+  "Dregs": { "M":4, "WS":2, "BS":2, "S":3, "T":3, "W":1, "I":3, "A":1, "L":7, "Cost":20, "Wep":"Yes", "XP":"Yes", "Skill":"Yes"},
+  "Ghoul": { "M":4, "WS":2, "BS":2, "S":3, "T":4, "W":1, "I":3, "A":2, "L":5, "Cost":40, "Wep":"No", "XP":"Yes", "Skill":"Maybe"},
+  "Dire Wolf": { "M":9, "WS":3, "BS":0, "S":4, "T":3, "W":1, "I":2, "A":1, "L":4, "Cost":50, "Wep":"No", "XP":"No", "Skill":"No"},
+  "Zombie": { "M":4, "WS":2, "BS":0, "S":3, "T":3, "W":1, "I":1, "A":1, "L":5, "Cost":15, "Wep":"No", "XP":"No", "Skill":"No"}
+}
